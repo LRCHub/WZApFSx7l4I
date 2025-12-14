@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "能動的三分間",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-14T13:04:52.313913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/01_能動的三分間_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nōdōteki Sanpunkan [能動的三分間]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Nōdōteki_Sanpunkan_[能動的三分間]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/03_能動的三分間_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/04_能動的三分間_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/05_能動的三分間_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "能動的三分間  (江崎グリコ「ウォータリングキスミント」TVCM「登場」篇 CMソング)",
+      "artist": "東京事変_Incidents Tokyo",
+      "has_synced": true,
+      "path": "select/06_能動的三分間_(江崎グリコ「ウォータリングキスミント」TVCM「登場」篇_CMソング)_東京事変_Incidents_Tokyo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/07_能動的三分間_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "能動的三分間",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/08_能動的三分間_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_06_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_07_能動的三分間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "能動的三分間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_08_能動的三分間_東京事変.txt"
+    }
+  ]
+}
